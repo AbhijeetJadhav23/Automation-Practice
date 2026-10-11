@@ -1,1 +1,3 @@
-Created new branches
+Created new branches.
+
+So the latest code firstly added to Feature, then created & merged the pull request from Feature to Stage & repeated same process from Stage to Main.
