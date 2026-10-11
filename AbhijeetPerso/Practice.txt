@@ -1,3 +1,3 @@
 Lets make git commands strong
 
-Adding comments from Server. Lets pull it.
+Adding comments from Server. Lets pull it. Few more changes.
